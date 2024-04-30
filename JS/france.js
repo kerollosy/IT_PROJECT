@@ -38,7 +38,7 @@ function dark(){
     if(!photo){
     dark.style.backgroundImage="url(../IMG/par.jpg)"
     } else{
-     dark.style.backgroundImage="url(../IMg/ff4.jpg"
+     dark.style.backgroundImage="url(../IMG/ff4.jpg"
     }
     photo=!photo;
 }
